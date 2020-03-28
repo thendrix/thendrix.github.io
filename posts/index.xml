@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on The Mongoose Barks</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on The Mongoose Barks</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Welcome</title>
+            <link>/posts/2020/03/welcome/</link>
+            <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2020/03/welcome/</guid>
+            <description>Testing out using hugo for blogging. I was going to bring over some old blog posts to here, but decided it might be better to update those posts and roll them out later.
+Today I&amp;rsquo;ll just link to the video of the transient material instance (MI) system that was put in not long ago. This system allows every object to have it&amp;rsquo;s own procedurally generated MI to handle various parameters of VFX materials such as volume, colors, patterns.</description>
+            <content type="html"><![CDATA[<p>Testing out using hugo for blogging.  I was going to bring over some old blog posts to here, but decided it might be better to update those posts and roll them out later.</p>
+<p>Today I&rsquo;ll just link to the video of the transient material instance (MI) system that was put in not long ago.  This system allows every object to have it&rsquo;s own procedurally generated MI to handle various parameters of VFX materials such as volume, colors, patterns.  All of the fluids in the video are using the same shader/material.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/eRahBAfaHWA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
