@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on The Mongoose Barks</title>
+        <title>Posts on Thoughts on GameDev</title>
         <link>/posts/</link>
-        <description>Recent content in Posts on The Mongoose Barks</description>
+        <description>Recent content in Posts on Thoughts on GameDev</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
