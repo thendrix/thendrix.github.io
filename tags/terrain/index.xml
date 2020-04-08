@@ -44,11 +44,7 @@ I noticed r/proceduralgeneration has a lot activity lately, so I thought I would
       
       <guid>/posts/2015/12/screenshot-weekend/</guid>
       <description>Well, mostly focused on non-renderer stuff this weekend like bringing more of the web editor interface into in-game viewport UI. A few minor improvements to sky with a simple per fragment Preetham, and ported all my shaders to the updated Kagura shader lang to get ready for Vulkan.
- screenshot 1
-Same scene &amp;ndash; different foliage seed &amp;ndash; with some general lighting improvements:
- screenshot 2
- screenshot 3
- screenshot 4</description>
+                  Same scene with different foliage seeds and lighting &amp;nbsp;  Below is a simple test for tiling fbm independently for foliage generation with the threaded voxel sectors, so there is no need to do another physics based ray cast pass.</description>
     </item>
     
     <item>
