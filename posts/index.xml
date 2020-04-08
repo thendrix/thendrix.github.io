@@ -27,6 +27,152 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
         </item>
         
         <item>
+            <title>WIP Character Creator</title>
+            <link>/posts/2020/02/wip-character-creator/</link>
+            <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2020/02/wip-character-creator/</guid>
+            <description>WIP Character Creator/Appearance system for my engine/game. You can adjust skin tone/paint colors, -/+ various body parts and sizes. The video is of my favorite player race, but there are others. 100% developed and ran in Linux. ;)
+#indiedev #indiegames #screenshotsaturday
+   video 1</description>
+            <content type="html"><![CDATA[<p>WIP Character Creator/Appearance system for my engine/game.  You can adjust skin tone/paint colors, -/+ various body parts and sizes.  The video is of my favorite player race, but there are others.  100% developed and ran in Linux.  ;)</p>
+<p>#indiedev #indiegames #screenshotsaturday</p>
+<p>
+
+<div class="local_video">
+<video width="100%" height="540" controls loop>
+<source src="/video/tweets/cc.mp4" type="video/mp4">
+</video>
+</div>
+
+
+<em>video 1</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Basic Night Sky Test</title>
+            <link>/posts/2019/10/basic-night-sky-test/</link>
+            <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/10/basic-night-sky-test/</guid>
+            <description>Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol. I&amp;rsquo;m looking into using an actual star map to navigate by in game later on&amp;hellip; This is more of a mood test while a had a couple of hours.
+  Maybe you can see them in images:
+ screenshot 1
+ screenshot 2
+ screenshot 3</description>
+            <content type="html"><![CDATA[<p>Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol.  I&rsquo;m looking into using an actual star map to navigate by in game later on&hellip; This is more of a mood test while a had a couple of hours.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/OPDR1uqRGnc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Maybe you can see them in images:</p>
+<p><a href="/images/tweets/EGLiPDrU4AEASW7.jpeg"><img src="/images/tweets/EGLiPDrU4AEASW7.jpeg" alt="gallery" title="screenshot 1"></a>
+<em>screenshot 1</em></p>
+<p><a href="/images/tweets/EGLiPDsUwAE_PXO.jpeg"><img src="/images/tweets/EGLiPDsUwAE_PXO.jpeg" alt="gallery" title="screenshot 2"></a>
+<em>screenshot 2</em></p>
+<p><a href="/images/tweets/EGLiPDvUUAAie7V.jpeg"><img src="/images/tweets/EGLiPDvUUAAie7V.jpeg" alt="gallery" title="screenshot 3"></a>
+<em>screenshot 3</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>WIP RPG with sailing, procedural worlds, and mod support</title>
+            <link>/posts/2019/08/wip-rpg-with-sailing-procedural-worlds-and-mod-support/</link>
+            <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/08/wip-rpg-with-sailing-procedural-worlds-and-mod-support/</guid>
+            <description>This page has some tweets + imgur posts combined here related to first posts of WIP RPG. These were some of the media tests done for social media video uploads. Using these to test video via hugo now.
+WIP RPG showing scale of a &amp;ldquo;small&amp;rdquo; 8x8 island. SDF proxy shadows and other &amp;ldquo;far&amp;rdquo; LoDs only for now. I had to crop out 1080p from the 2k image to record for now, sorry.</description>
+            <content type="html"><![CDATA[<p>This page has some tweets + imgur posts combined here related to first posts of WIP RPG.  These were some of the media tests done for social media video uploads.  Using these to test video via hugo now.</p>
+<p>WIP RPG showing scale of a &ldquo;small&rdquo; 8x8 island.  SDF proxy shadows and other &ldquo;far&rdquo; LoDs only for now.  I had to crop out 1080p from the 2k image to record for now, sorry.  I did install OBS with NVEnc on new WS, so streaming is possible later.
+#screenshotsaturday #indiedev</p>
+<p>
+
+<div class="local_video">
+<video width="100%" height="540" controls loop>
+<source src="/video/tweets/2019-08-31_16-38-06.mp4" type="video/mp4">
+</video>
+</div>
+
+
+<em>Mage can handle a long blade too.  Yeah, 1080p cropped video from 2k game resolution, and lots of other issues.</em></p>
+<p>
+
+<div class="local_video">
+<video width="100%" height="540" controls loop>
+<source src="/video/tweets/2019-08-31_17_07-00-transcode-trimmed.mp4" type="video/mp4">
+</video>
+</div>
+
+
+<em>Rogue during mid-far distance SDF proxy shadow test.  Line is showing when they enable by LoD.  All other shadows besides screenspace shadows are disabled.</em></p>
+<h2 id="youtube-test">Youtube Test</h2>
+<p>Blargh&hellip; I need to figure out social media video deployment.  Should I just be uploading to YouTube as 4k?</p>
+<p>1440 downscaled to 1080 in OBS isn&rsquo;t too bad I guess, but then the extra compression comes into play after upload.</p>
+<p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/sivtM9ed6_Q" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<em>Physics Based Sailing in First Person (Video upload test)</em></p>
+<p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/VXcbcySnbKE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<em>Generated island with small mountains</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Lighting Model Tweet</title>
+            <link>/posts/2019/06/lighting-model-tweet/</link>
+            <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/06/lighting-model-tweet/</guid>
+            <description>Back to my take on OrenNayar/Beckmann (needs better energy conservation) Player Hus generation from floor plans (line art,multi-floor) New attachment system replaces all use of old one No work on hybrid shadows yet  #screenshotsaturday
+ screenshot 1
+ screenshot 2
+ screenshot 3
+Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tossed. I like the highlights of my old 2-pass better but needs work to avoid getting too hot.</description>
+            <content type="html"><![CDATA[<ul>
+<li>Back to my take on OrenNayar/Beckmann (needs better energy conservation)</li>
+<li>Player Hus generation from floor plans (line art,multi-floor)</li>
+<li>New attachment system replaces all use of old one</li>
+<li>No work on hybrid shadows yet</li>
+</ul>
+<p>#screenshotsaturday</p>
+<p><a href="/images/tweets/D-P5KzCU4AEqvey.jpeg"><img src="/images/tweets/D-P5KzCU4AEqvey.jpeg" alt="gallery" title="screenshot 1"></a>
+<em>screenshot 1</em></p>
+<p><a href="/images/tweets/D-P5RLaU0AAYbYx.jpeg"><img src="/images/tweets/D-P5RLaU0AAYbYx.jpeg" alt="gallery" title="screenshot 2"></a>
+<em>screenshot 2</em></p>
+<p><a href="/images/tweets/D-P5b3LU0AAw55R.jpeg"><img src="/images/tweets/D-P5b3LU0AAw55R.jpeg" alt="gallery" title="screenshot 3"></a>
+<em>screenshot 3</em></p>
+<p>Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tossed.  I like the highlights of my old 2-pass better but needs work to avoid getting too hot.</p>
+<p>Better look at a Rogue kitted out during prototyping phase.</p>
+<p><a href="/images/tweets/D-P9zNHU0AA_ybN.png"><img src="/images/tweets/D-P9zNHU0AA_ybN.png" alt="gallery" title="screenshot 4"></a>
+<em>screenshot 4</em></p>
+<p>Kids, don&rsquo;t make an engine + game + art solo &ndash; it&rsquo;s crazy.  Leave it to professional crazy persons.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Screenshot Saturday, Side Eye</title>
+            <link>/posts/2019/06/screenshot-saturday-side-eye/</link>
+            <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/06/screenshot-saturday-side-eye/</guid>
+            <description>Hey guys, let me do the talking &amp;ndash; I&amp;rsquo;m sure this shop keeper will want to covert. Nothing like last time.
+ side eye</description>
+            <content type="html"><![CDATA[<p>Hey guys, let me do the talking &ndash; I&rsquo;m sure this shop keeper will want to covert.  Nothing like last time.</p>
+<p><a href="/images/tweets/D8lGDZDUIAARnBV.png"><img src="/images/tweets/D8lGDZDUIAARnBV.png" alt="gallery" title="side eye"></a>
+<em>side eye</em></p>
+]]></content>
+        </item>
+        
+        <item>
             <title>Noise!</title>
             <link>/posts/2016/01/noise/</link>
             <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>

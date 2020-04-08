@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>screenshotsaturday on Thoughts on GameDev</title>
+    <link>/tags/screenshotsaturday/</link>
+    <description>Recent content in screenshotsaturday on Thoughts on GameDev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/screenshotsaturday/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WIP Character Creator</title>
+      <link>/posts/2020/02/wip-character-creator/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/02/wip-character-creator/</guid>
+      <description>WIP Character Creator/Appearance system for my engine/game. You can adjust skin tone/paint colors, -/+ various body parts and sizes. The video is of my favorite player race, but there are others. 100% developed and ran in Linux. ;)
+#indiedev #indiegames #screenshotsaturday
+   video 1</description>
+    </item>
+    
+    <item>
+      <title>Basic Night Sky Test</title>
+      <link>/posts/2019/10/basic-night-sky-test/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/10/basic-night-sky-test/</guid>
+      <description>Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol. I&amp;rsquo;m looking into using an actual star map to navigate by in game later on&amp;hellip; This is more of a mood test while a had a couple of hours.
+  Maybe you can see them in images:
+ screenshot 1
+ screenshot 2
+ screenshot 3</description>
+    </item>
+    
+    <item>
+      <title>WIP RPG with sailing, procedural worlds, and mod support</title>
+      <link>/posts/2019/08/wip-rpg-with-sailing-procedural-worlds-and-mod-support/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/08/wip-rpg-with-sailing-procedural-worlds-and-mod-support/</guid>
+      <description>This page has some tweets + imgur posts combined here related to first posts of WIP RPG. These were some of the media tests done for social media video uploads. Using these to test video via hugo now.
+WIP RPG showing scale of a &amp;ldquo;small&amp;rdquo; 8x8 island. SDF proxy shadows and other &amp;ldquo;far&amp;rdquo; LoDs only for now. I had to crop out 1080p from the 2k image to record for now, sorry.</description>
+    </item>
+    
+    <item>
+      <title>Lighting Model Tweet</title>
+      <link>/posts/2019/06/lighting-model-tweet/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/06/lighting-model-tweet/</guid>
+      <description>Back to my take on OrenNayar/Beckmann (needs better energy conservation) Player Hus generation from floor plans (line art,multi-floor) New attachment system replaces all use of old one No work on hybrid shadows yet  #screenshotsaturday
+ screenshot 1
+ screenshot 2
+ screenshot 3
+Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tossed. I like the highlights of my old 2-pass better but needs work to avoid getting too hot.</description>
+    </item>
+    
+    <item>
+      <title>Screenshot Saturday, Side Eye</title>
+      <link>/posts/2019/06/screenshot-saturday-side-eye/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/06/screenshot-saturday-side-eye/</guid>
+      <description>Hey guys, let me do the talking &amp;ndash; I&amp;rsquo;m sure this shop keeper will want to covert. Nothing like last time.
+ side eye</description>
+    </item>
+    
+  </channel>
+</rss>
