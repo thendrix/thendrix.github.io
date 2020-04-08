@@ -31,6 +31,17 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
     </item>
     
     <item>
+      <title>Weapon Models Update</title>
+      <link>/posts/2020/02/weapon-models-update/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/02/weapon-models-update/</guid>
+      <description>Some renders of a couple of the weapons that got banged out in between coding sessions last week in case you missed it:
+#screenshotsaturday #indiegames
+           Weapons modeled in blender with material in Substance &amp;nbsp;  My hard surface/box modeling skills are OKish enough to throw out/replace all the older models now I think. Expect many geometry/material updates before alpha starting with various props.</description>
+    </item>
+    
+    <item>
       <title>WIP Character Creator</title>
       <link>/posts/2020/02/wip-character-creator/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
@@ -80,6 +91,19 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
       <guid>/posts/2019/06/screenshot-saturday-side-eye/</guid>
       <description>Hey guys, let me do the talking &amp;ndash; I&amp;rsquo;m sure this shop keeper will want to covert. Nothing like last time.
  side eye</description>
+    </item>
+    
+    <item>
+      <title>Terrain and Breadknives</title>
+      <link>/posts/2019/05/terrain-and-breadknives/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/05/terrain-and-breadknives/</guid>
+      <description>What kind of knives do you guys use for slicing your procedural voxel terrain? When I slice with a serrated bread knife I get all these little blocks on the edges.
+(Above is a joke.)
+Terrain generated with only 3 density functions clipped at 4x4 sectors. #screenshotsaturday
+OK, one more shitpost while taking a sick day.
+&amp;ldquo;While you were feasting&amp;hellip; I was learning the the candlestick&amp;rdquo; ** ** ~200m statue for reference</description>
     </item>
     
     <item>

@@ -27,6 +27,80 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
         </item>
         
         <item>
+            <title>Weapon Models Update</title>
+            <link>/posts/2020/02/weapon-models-update/</link>
+            <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2020/02/weapon-models-update/</guid>
+            <description>Some renders of a couple of the weapons that got banged out in between coding sessions last week in case you missed it:
+#screenshotsaturday #indiegames
+           Weapons modeled in blender with material in Substance &amp;nbsp;  My hard surface/box modeling skills are OKish enough to throw out/replace all the older models now I think. Expect many geometry/material updates before alpha starting with various props.</description>
+            <content type="html"><![CDATA[<p>Some renders of a couple of the weapons that got banged out in between coding sessions last week in case you missed it:</p>
+<p>#screenshotsaturday #indiegames</p>
+<p>
+
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        
+            <img src=""  />
+        
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/ERauEUhUEAAlapt.jpeg">
+            <img src="/images/tweets/ERauEUhUEAAlapt.jpeg" alt="Spear with material in Substance" title="Spear with material in Substance"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/ERauFfcVUAA8yml.jpeg">
+            <img src="/images/tweets/ERauFfcVUAA8yml.jpeg" alt="Sword with material in Substance" title="Sword with material in Substance"  />
+        </a>
+        
+        <figcaption>
+        </figcaption>
+        
+    </figure>
+</span>
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>Weapons modeled in blender with material in Substance</i>
+    </p>
+    
+    <p>&nbsp;<p>
+</div>
+
+
+
+</p>
+<p>My hard surface/box modeling skills are OKish enough to throw out/replace all the older models now I think.   Expect many geometry/material updates before alpha starting with various props.</p>
+<p>Looking into using WFC for building generation now, and may have something to show later.</p>
+<p>If anyone is interested I&rsquo;m considering doing a video of the process of making a weapon from concept to model to in-game asset.  It&rsquo;s all pretty quick given my engine is focused on modders.</p>
+]]></content>
+        </item>
+        
+        <item>
             <title>WIP Character Creator</title>
             <link>/posts/2020/02/wip-character-creator/</link>
             <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
@@ -51,7 +125,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 <!-- raw HTML omitted -->
 <p>
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         
             <img src=""  />
@@ -66,7 +140,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  20px 0px 0px 0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EPryff_UEAAb2xO.jpeg">
             <img src="/images/tweets/EPryff_UEAAb2xO.jpeg" alt="Thought it would be fun to have like a beach party when not slaying demons." title="Thought it would be fun to have like a beach party when not slaying demons."  />
@@ -81,7 +155,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px 20px 0px 0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EQP0AxaUEAAy38t.jpeg">
             <img src="/images/tweets/EQP0AxaUEAAy38t.jpeg" alt="Demons? Come on" title="Demons? Come on"  />
@@ -96,7 +170,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px 0px 0px 20px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EQP0AwkVUAAtgSt.jpeg">
             <img src="/images/tweets/EQP0AwkVUAAtgSt.jpeg" alt="Pants made of seawater" title="Pants made of seawater"  />
@@ -111,7 +185,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EPsRz-GU0AAKzRL.jpeg">
             <img src="/images/tweets/EPsRz-GU0AAKzRL.jpeg" alt="much improved dark skin tone on new model" title="much improved dark skin tone on new model"  />
@@ -126,7 +200,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px 0px 20px 0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EQP0Aw3UEAELyfy.jpeg">
             <img src="/images/tweets/EQP0Aw3UEAELyfy.jpeg" alt="Player races" title="Player races"  />
@@ -153,7 +227,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 </p>
 <p>
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         
             <img src=""  />
@@ -168,7 +242,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  20px 0px 0px 20px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EPsRz-QU4AAkLTJ.jpeg">
             <img src="/images/tweets/EPsRz-QU4AAkLTJ.jpeg" alt="who would ever play a fantasy RPG as a topless jade statue?" title="who would ever play a fantasy RPG as a topless jade statue?"  />
@@ -183,7 +257,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px 20px 0px 0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EQP0AxLU8AALle_.jpeg">
             <img src="/images/tweets/EQP0AxLU8AALle_.jpeg" alt="skin tones" title="skin tones"  />
@@ -246,7 +320,7 @@ Not sure if you can notice the refraction.</p>
 <!-- raw HTML omitted -->
 <p>
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         
             <img src=""  />
@@ -261,7 +335,7 @@ Not sure if you can notice the refraction.</p>
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  20px 0px 0px 0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EGLiPDrU4AEASW7.jpeg">
             <img src="/images/tweets/EGLiPDrU4AEASW7.jpeg" alt="screenshot 1" title="screenshot 1"  />
@@ -276,7 +350,7 @@ Not sure if you can notice the refraction.</p>
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px 20px 0px 0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EGLiPDsUwAE_PXO.jpeg">
             <img src="/images/tweets/EGLiPDsUwAE_PXO.jpeg" alt="screenshot 2" title="screenshot 2"  />
@@ -291,7 +365,7 @@ Not sure if you can notice the refraction.</p>
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px 0px 0px 20px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EGLiPDvUUAAie7V.jpeg">
             <img src="/images/tweets/EGLiPDvUUAAie7V.jpeg" alt="screenshot 3" title="screenshot 3"  />
@@ -388,7 +462,7 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
 <!-- raw HTML omitted -->
 <p>
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         
             <img src=""  />
@@ -403,7 +477,7 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/D-P5KzCU4AEqvey.jpeg">
             <img src="/images/tweets/D-P5KzCU4AEqvey.jpeg" alt="screenshot 1" title="screenshot 1"  />
@@ -418,7 +492,7 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/D-P5RLaU0AAYbYx.jpeg">
             <img src="/images/tweets/D-P5RLaU0AAYbYx.jpeg" alt="screenshot 2" title="screenshot 2"  />
@@ -433,7 +507,7 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/D-P5b3LU0AAw55R.jpeg">
             <img src="/images/tweets/D-P5b3LU0AAw55R.jpeg" alt="screenshot 3" title="screenshot 3"  />
@@ -448,7 +522,7 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
 
 
 
-<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/D-P9zNHU0AA_ybN.png">
             <img src="/images/tweets/D-P9zNHU0AA_ybN.png" alt="screenshot 3" title="screenshot 3"  />
@@ -488,6 +562,85 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
             <content type="html"><![CDATA[<p>Hey guys, let me do the talking &ndash; I&rsquo;m sure this shop keeper will want to covert.  Nothing like last time.</p>
 <p><a href="/images/tweets/D8lGDZDUIAARnBV.png"><img src="/images/tweets/D8lGDZDUIAARnBV.png" alt="gallery" title="side eye"></a>
 <em>side eye</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Terrain and Breadknives</title>
+            <link>/posts/2019/05/terrain-and-breadknives/</link>
+            <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/05/terrain-and-breadknives/</guid>
+            <description>What kind of knives do you guys use for slicing your procedural voxel terrain? When I slice with a serrated bread knife I get all these little blocks on the edges.
+(Above is a joke.)
+Terrain generated with only 3 density functions clipped at 4x4 sectors. #screenshotsaturday
+OK, one more shitpost while taking a sick day.
+&amp;ldquo;While you were feasting&amp;hellip; I was learning the the candlestick&amp;rdquo; ** ** ~200m statue for reference</description>
+            <content type="html"><![CDATA[<p>What kind of knives do you guys use for slicing your procedural voxel terrain?  When I slice with a serrated bread knife I get all these little blocks on the edges.</p>
+<p>(Above is a joke.)</p>
+<p>Terrain generated with only 3 density functions clipped at 4x4 sectors.
+#screenshotsaturday</p>
+<p>OK, one more shitpost while taking a sick day.</p>
+<p>&ldquo;While you were feasting&hellip; I was learning the the candlestick&rdquo; **
+** ~200m statue for reference</p>
+<p>#screenshotsaturday</p>
+<p>
+
+<span style="float: left; border-radius:  0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        
+            <img src=""  />
+        
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius:  20px 0px 0px 20px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/D65TDj_UcAEteKc.jpeg">
+            <img src="/images/tweets/D65TDj_UcAEteKc.jpeg" alt="Screenshot" title="Screenshot"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius:  0px 20px 20px 0px ; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/D65usLkVsAA5WRv.jpeg">
+            <img src="/images/tweets/D65usLkVsAA5WRv.jpeg" alt="Screenshot" title="Screenshot"  />
+        </a>
+        
+        <figcaption>
+        </figcaption>
+        
+    </figure>
+</span>
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>Screenshot Gallery</i>
+    </p>
+    
+    <p>&nbsp;<p>
+</div>
+
+
+
+</p>
 ]]></content>
         </item>
         
