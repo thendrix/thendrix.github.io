@@ -19,7 +19,7 @@
       <guid>/posts/2020/02/wip-character-creator/</guid>
       <description>WIP Character Creator/Appearance system for my engine/game. You can adjust skin tone/paint colors, -/+ various body parts and sizes. The video is of my favorite player race, but there are others. 100% developed and ran in Linux. ;)
 #indiedev #indiegames #screenshotsaturday
-   video 1</description>
+ Variation Video From Tweet  Character Create UI is currently done in imgui for faster development. Will have a pretty user UI later, but this let&amp;rsquo;s me and modders edit the UI while the game is running to prototype much faster.</description>
     </item>
     
     <item>
@@ -30,9 +30,7 @@
       <guid>/posts/2019/10/basic-night-sky-test/</guid>
       <description>Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol. I&amp;rsquo;m looking into using an actual star map to navigate by in game later on&amp;hellip; This is more of a mood test while a had a couple of hours.
   Maybe you can see them in images:
- screenshot 1
- screenshot 2
- screenshot 3</description>
+              Screenshot Gallery &amp;nbsp;  </description>
     </item>
     
     <item>
@@ -52,9 +50,6 @@ WIP RPG showing scale of a &amp;ldquo;small&amp;rdquo; 8x8 island. SDF proxy sha
       
       <guid>/posts/2019/06/lighting-model-tweet/</guid>
       <description>Back to my take on OrenNayar/Beckmann (needs better energy conservation) Player Hus generation from floor plans (line art,multi-floor) New attachment system replaces all use of old one No work on hybrid shadows yet  #screenshotsaturday
- screenshot 1
- screenshot 2
- screenshot 3
 Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tossed. I like the highlights of my old 2-pass better but needs work to avoid getting too hot.</description>
     </item>
     

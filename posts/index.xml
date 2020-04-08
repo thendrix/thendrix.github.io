@@ -34,19 +34,196 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
             <guid>/posts/2020/02/wip-character-creator/</guid>
             <description>WIP Character Creator/Appearance system for my engine/game. You can adjust skin tone/paint colors, -/+ various body parts and sizes. The video is of my favorite player race, but there are others. 100% developed and ran in Linux. ;)
 #indiedev #indiegames #screenshotsaturday
-   video 1</description>
+ Variation Video From Tweet  Character Create UI is currently done in imgui for faster development. Will have a pretty user UI later, but this let&amp;rsquo;s me and modders edit the UI while the game is running to prototype much faster.</description>
             <content type="html"><![CDATA[<p>WIP Character Creator/Appearance system for my engine/game.  You can adjust skin tone/paint colors, -/+ various body parts and sizes.  The video is of my favorite player race, but there are others.  100% developed and ran in Linux.  ;)</p>
 <p>#indiedev #indiegames #screenshotsaturday</p>
+
+<div class="embed-video" >
+	<video width="100%" height="540" controls loop autoplay>
+		<source src="/video/tweets/cc.mp4" type="video/mp4">
+	</video>
+	<p style="text-align:center">
+		<i>Variation Video From Tweet</i>
+	</p>
+</div>
+
+<p>Character Create UI is currently done in imgui for faster development.  Will have a pretty user UI later, but this let&rsquo;s me and modders edit the UI while the game is running to prototype much faster.</p>
+<!-- raw HTML omitted -->
 <p>
 
-<div class="local_video">
-<video width="100%" height="540" controls loop>
-<source src="/video/tweets/cc.mp4" type="video/mp4">
-</video>
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        
+            <img src=""  />
+        
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EPryff_UEAAb2xO.jpeg">
+            <img src="/images/tweets/EPryff_UEAAb2xO.jpeg" alt="Thought it would be fun to have like a beach party when not slaying demons." title="Thought it would be fun to have like a beach party when not slaying demons."  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EQP0AxaUEAAy38t.jpeg">
+            <img src="/images/tweets/EQP0AxaUEAAy38t.jpeg" alt="Demons? Come on" title="Demons? Come on"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EQP0AwkVUAAtgSt.jpeg">
+            <img src="/images/tweets/EQP0AwkVUAAtgSt.jpeg" alt="Pants made of seawater" title="Pants made of seawater"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EPsRz-GU0AAKzRL.jpeg">
+            <img src="/images/tweets/EPsRz-GU0AAKzRL.jpeg" alt="much improved dark skin tone on new model" title="much improved dark skin tone on new model"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EQP0Aw3UEAELyfy.jpeg">
+            <img src="/images/tweets/EQP0Aw3UEAELyfy.jpeg" alt="Player races" title="Player races"  />
+        </a>
+        
+        <figcaption>
+        </figcaption>
+        
+    </figure>
+</span>
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>Character Creation Sample Gallery</i>
+    </p>
+    
+    <p>&nbsp;<p>
 </div>
 
 
-<em>video 1</em></p>
+
+</p>
+<p>
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        
+            <img src=""  />
+        
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EPsRz-QU4AAkLTJ.jpeg">
+            <img src="/images/tweets/EPsRz-QU4AAkLTJ.jpeg" alt="who would ever play a fantasy RPG as a topless jade statue?" title="who would ever play a fantasy RPG as a topless jade statue?"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EQP0AxLU8AALle_.jpeg">
+            <img src="/images/tweets/EQP0AxLU8AALle_.jpeg" alt="skin tones" title="skin tones"  />
+        </a>
+        
+        <figcaption>
+        </figcaption>
+        
+    </figure>
+</span>
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>Maybe I should just make a quick beach volleyball game with monsters</i>
+    </p>
+    
+    <p>&nbsp;<p>
+</div>
+
+
+
+</p>
+<h2 id="poll">Poll</h2>
+<p>Yes, those pants are made of water.  My renderer/material/clothing can use generic material types as well so you can swap them to various fabrics and not just colors.  Should I allow players to have glass/water/gold/etc clothes?</p>
+<p><a href="/images/tweets/Selection_203.png"><img src="/images/tweets/Selection_203.png" alt="gallery" title="screenshot 4"></a></p>
+<p>Here&rsquo;s a joke/test of multiple layers of glass/water clothing:
+Not sure if you can notice the refraction.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/iCafGk5IfpQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Later I did a quick youtube video for the WIP:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/meIX5vTStKs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
 ]]></content>
         </item>
         
@@ -58,9 +235,7 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
             <guid>/posts/2019/10/basic-night-sky-test/</guid>
             <description>Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol. I&amp;rsquo;m looking into using an actual star map to navigate by in game later on&amp;hellip; This is more of a mood test while a had a couple of hours.
   Maybe you can see them in images:
- screenshot 1
- screenshot 2
- screenshot 3</description>
+              Screenshot Gallery &amp;nbsp;  </description>
             <content type="html"><![CDATA[<p>Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol.  I&rsquo;m looking into using an actual star map to navigate by in game later on&hellip; This is more of a mood test while a had a couple of hours.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -68,12 +243,79 @@ Today I&amp;rsquo;ll just link to the video of the transient material instance (
 </div>
 
 <p>Maybe you can see them in images:</p>
-<p><a href="/images/tweets/EGLiPDrU4AEASW7.jpeg"><img src="/images/tweets/EGLiPDrU4AEASW7.jpeg" alt="gallery" title="screenshot 1"></a>
-<em>screenshot 1</em></p>
-<p><a href="/images/tweets/EGLiPDsUwAE_PXO.jpeg"><img src="/images/tweets/EGLiPDsUwAE_PXO.jpeg" alt="gallery" title="screenshot 2"></a>
-<em>screenshot 2</em></p>
-<p><a href="/images/tweets/EGLiPDvUUAAie7V.jpeg"><img src="/images/tweets/EGLiPDvUUAAie7V.jpeg" alt="gallery" title="screenshot 3"></a>
-<em>screenshot 3</em></p>
+<!-- raw HTML omitted -->
+<p>
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        
+            <img src=""  />
+        
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EGLiPDrU4AEASW7.jpeg">
+            <img src="/images/tweets/EGLiPDrU4AEASW7.jpeg" alt="screenshot 1" title="screenshot 1"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EGLiPDsUwAE_PXO.jpeg">
+            <img src="/images/tweets/EGLiPDsUwAE_PXO.jpeg" alt="screenshot 2" title="screenshot 2"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EGLiPDvUUAAie7V.jpeg">
+            <img src="/images/tweets/EGLiPDvUUAAie7V.jpeg" alt="screenshot 3" title="screenshot 3"  />
+        </a>
+        
+        <figcaption>
+        </figcaption>
+        
+    </figure>
+</span>
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>Screenshot Gallery</i>
+    </p>
+    
+    <p>&nbsp;<p>
+</div>
+
+
+
+</p>
 ]]></content>
         </item>
         
@@ -88,26 +330,26 @@ WIP RPG showing scale of a &amp;ldquo;small&amp;rdquo; 8x8 island. SDF proxy sha
             <content type="html"><![CDATA[<p>This page has some tweets + imgur posts combined here related to first posts of WIP RPG.  These were some of the media tests done for social media video uploads.  Using these to test video via hugo now.</p>
 <p>WIP RPG showing scale of a &ldquo;small&rdquo; 8x8 island.  SDF proxy shadows and other &ldquo;far&rdquo; LoDs only for now.  I had to crop out 1080p from the 2k image to record for now, sorry.  I did install OBS with NVEnc on new WS, so streaming is possible later.
 #screenshotsaturday #indiedev</p>
-<p>
 
-<div class="local_video">
-<video width="100%" height="540" controls loop>
-<source src="/video/tweets/2019-08-31_16-38-06.mp4" type="video/mp4">
-</video>
+<div class="embed-video" >
+	<video width="100%" height="540" controls loop >
+		<source src="/video/tweets/2019-08-31_16-38-06.mp4" type="video/mp4">
+	</video>
+	<p style="text-align:center">
+		<i>Mage can handle a long blade too.  Yeah, 1080p cropped video from 2k game resolution, and lots of other issues.</i>
+	</p>
 </div>
 
 
-<em>Mage can handle a long blade too.  Yeah, 1080p cropped video from 2k game resolution, and lots of other issues.</em></p>
-<p>
-
-<div class="local_video">
-<video width="100%" height="540" controls loop>
-<source src="/video/tweets/2019-08-31_17_07-00-transcode-trimmed.mp4" type="video/mp4">
-</video>
+<div class="embed-video" >
+	<video width="100%" height="540" controls loop >
+		<source src="/video/tweets/2019-08-31_17_07-00-transcode-trimmed.mp4" type="video/mp4">
+	</video>
+	<p style="text-align:center">
+		<i>Rogue during mid-far distance SDF proxy shadow test.  Line is showing when they enable by LoD.  All other shadows besides screenspace shadows are disabled.</i>
+	</p>
 </div>
 
-
-<em>Rogue during mid-far distance SDF proxy shadow test.  Line is showing when they enable by LoD.  All other shadows besides screenspace shadows are disabled.</em></p>
 <h2 id="youtube-test">Youtube Test</h2>
 <p>Blargh&hellip; I need to figure out social media video deployment.  Should I just be uploading to YouTube as 4k?</p>
 <p>1440 downscaled to 1080 in OBS isn&rsquo;t too bad I guess, but then the extra compression comes into play after upload.</p>
@@ -133,9 +375,6 @@ WIP RPG showing scale of a &amp;ldquo;small&amp;rdquo; 8x8 island. SDF proxy sha
             
             <guid>/posts/2019/06/lighting-model-tweet/</guid>
             <description>Back to my take on OrenNayar/Beckmann (needs better energy conservation) Player Hus generation from floor plans (line art,multi-floor) New attachment system replaces all use of old one No work on hybrid shadows yet  #screenshotsaturday
- screenshot 1
- screenshot 2
- screenshot 3
 Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tossed. I like the highlights of my old 2-pass better but needs work to avoid getting too hot.</description>
             <content type="html"><![CDATA[<ul>
 <li>Back to my take on OrenNayar/Beckmann (needs better energy conservation)</li>
@@ -144,16 +383,96 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
 <li>No work on hybrid shadows yet</li>
 </ul>
 <p>#screenshotsaturday</p>
-<p><a href="/images/tweets/D-P5KzCU4AEqvey.jpeg"><img src="/images/tweets/D-P5KzCU4AEqvey.jpeg" alt="gallery" title="screenshot 1"></a>
-<em>screenshot 1</em></p>
-<p><a href="/images/tweets/D-P5RLaU0AAYbYx.jpeg"><img src="/images/tweets/D-P5RLaU0AAYbYx.jpeg" alt="gallery" title="screenshot 2"></a>
-<em>screenshot 2</em></p>
-<p><a href="/images/tweets/D-P5b3LU0AAw55R.jpeg"><img src="/images/tweets/D-P5b3LU0AAw55R.jpeg" alt="gallery" title="screenshot 3"></a>
-<em>screenshot 3</em></p>
 <p>Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tossed.  I like the highlights of my old 2-pass better but needs work to avoid getting too hot.</p>
 <p>Better look at a Rogue kitted out during prototyping phase.</p>
-<p><a href="/images/tweets/D-P9zNHU0AA_ybN.png"><img src="/images/tweets/D-P9zNHU0AA_ybN.png" alt="gallery" title="screenshot 4"></a>
-<em>screenshot 4</em></p>
+<!-- raw HTML omitted -->
+<p>
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        
+            <img src=""  />
+        
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/D-P5KzCU4AEqvey.jpeg">
+            <img src="/images/tweets/D-P5KzCU4AEqvey.jpeg" alt="screenshot 1" title="screenshot 1"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/D-P5RLaU0AAYbYx.jpeg">
+            <img src="/images/tweets/D-P5RLaU0AAYbYx.jpeg" alt="screenshot 2" title="screenshot 2"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/D-P5b3LU0AAw55R.jpeg">
+            <img src="/images/tweets/D-P5b3LU0AAw55R.jpeg" alt="screenshot 3" title="screenshot 3"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+
+<span style="float: left; border-radius: 16px; max-width: 49%; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/D-P9zNHU0AA_ybN.png">
+            <img src="/images/tweets/D-P9zNHU0AA_ybN.png" alt="screenshot 3" title="screenshot 3"  />
+        </a>
+        
+        <figcaption>
+        </figcaption>
+        
+    </figure>
+</span>
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>Screenshot Gallery</i>
+    </p>
+    
+    <p>&nbsp;<p>
+</div>
+
+
+
+</p>
 <p>Kids, don&rsquo;t make an engine + game + art solo &ndash; it&rsquo;s crazy.  Leave it to professional crazy persons.</p>
 ]]></content>
         </item>
