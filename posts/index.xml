@@ -267,10 +267,10 @@ Not sure if you can notice the refraction.</p>
             <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
             
             <guid>/posts/2020/02/wip-moon-phase-/-tides/</guid>
-            <description>Feb 4, 2020 I don&amp;rsquo;t think I showed working moon phase yet?
+            <description>Moon Phase Feb 4, 2020 I don&amp;rsquo;t think I showed working moon phase yet?
 The stars are all done in a screenspace shader, and the moon is just doing a simple alpha blend based on vector driven by day of the month w/o additional occlusion as yet. Lunar cycle isn&amp;rsquo;t completely modeled yet. An average night the moon should shift ~12-15 degrees.
-  Jan 11, 2020 Shows how time affects tides visually and with physics feedback for specific islands.</description>
-            <content type="html"><![CDATA[<h2 id="feb-4-2020">Feb 4, 2020</h2>
+  Tides Jan 11, 2020 Shows how time affects tides visually and with physics feedback for specific islands.</description>
+            <content type="html"><![CDATA[<h2 id="moon-phase-feb-4-2020">Moon Phase Feb 4, 2020</h2>
 <p>I don&rsquo;t think I showed working moon phase yet?</p>
 <p>The stars are all done in a screenspace shader, and the moon is just doing a simple alpha blend based on vector driven by day of the month w/o additional occlusion as yet.  Lunar cycle isn&rsquo;t completely modeled yet.  An average night the moon should shift ~12-15 degrees.</p>
 
@@ -278,12 +278,19 @@ The stars are all done in a screenspace shader, and the moon is just doing a sim
   <iframe src="https://www.youtube.com/embed/GmpeHav554k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<h2 id="jan-11-2020">Jan 11, 2020</h2>
+<h2 id="tides-jan-11-2020">Tides Jan 11, 2020</h2>
 <p>Shows how time affects tides visually and with physics feedback for specific islands.  I setup a simple embedded inspector view right in the dashboard for &lsquo;world time&rsquo; and &lsquo;physics for this island&rsquo;s ocean water plane&rsquo;.</p>
 <p>Looking into using SDFs or clipmaps for final ocean implementation (not shown) to allow for rough seas and rolling swells.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/7mtvNQbGmTg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="bonus-pet-animals-twitter-poll-request">Bonus: Pet animals (twitter poll request)</h2>
+<p>This is clearly a very early WIP, but it&rsquo;s funny &ndash; enjoy.  Please ignore all the debug/sandbox stuff in the background.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/kuUhRRalVPg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 ]]></content>
@@ -362,6 +369,165 @@ The stars are all done in a screenspace shader, and the moon is just doing a sim
     <p>&nbsp;<p>
 </div>
 </p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Sailing to the lighthouse</title>
+            <link>/posts/2019/09/sailing-to-the-lighthouse/</link>
+            <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/09/sailing-to-the-lighthouse/</guid>
+            <description>Stupid lighthouse&amp;hellip; I wonder why they have the beacon lit during the daytime? Why does it have 10 floors? #screenshotsaturday #indiedev #linux
+ Old sailing video last seen on twitter &amp;nbsp;
+ Rough pass done for lighthouse with physics and basic materials. Every floor is about as tall as the &amp;ldquo;cog&amp;rdquo; ship. Made some modular spiral staircases to remove them later because no one likes spinning around and around while running at walls&amp;hellip; go figure.</description>
+            <content type="html"><![CDATA[<p>Stupid lighthouse&hellip; I wonder why they have the beacon lit during the daytime?  Why does it have 10 floors?  #screenshotsaturday #indiedev #linux</p>
+
+<div class="embed-video" >
+	<video width="100%" height="540" controls loop >
+		<source src="/video/tweets/2019-09-21_18-42-29.mp4" type="video/mp4">
+	</video>
+	<p style="text-align:center; margin: 0px;">
+		<i>Old sailing video last seen on twitter</i>
+	</p>
+	<p>&nbsp;</p>
+</div>
+
+<p>Rough pass done for lighthouse with physics and basic materials.  Every floor is about as tall as the &ldquo;cog&rdquo; ship.  Made some modular spiral staircases to remove them later because no one likes spinning around and around while running at walls&hellip; go figure.  :D</p>
+
+
+<div style="display: block; margin: auto; max-width:  90% ; height: auto; padding: 1px;">
+    <figure 
+        style="border-radius: 16px; overflow: hidden;">
+        <a href="/images/tweets/EFCPytSU0AEelPm.jpeg">
+            <img src="/images/tweets/EFCPytSU0AEelPm.jpeg" alt="Image of lighthouse on terrain" title="Image of lighthouse on terrain"  />
+        </a>
+      
+    </figure>
+    <caption>
+        <p style="text-align:center">
+            <i>Image of lighthouse on terrain</i>
+        </p>
+    </caption>
+</div>
+
+
+<p>Here&rsquo;s some perspectives to possibly give a better idea how freaking tall it is, and an idea how big a &ldquo;tiny&rdquo; test island.  Skyrim is like 39km^2 iirc, and this is as big as one of the regions.  The game is about procedural island hopping.</p>
+<p>
+<div style="width:100%; clear:left;">
+    
+</div>
+
+
+
+<span style="float: left; border-radius:  20px 0px 0px 20px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EFEZazhU8AMXm4x.jpeg">
+            <img src="/images/tweets/EFEZazhU8AMXm4x.jpeg" alt="Screenshot of ship" title="Screenshot of ship"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+<span style="float: left; border-radius:  0px 20px 20px 0px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/EFEZaziU8AAkA7S.jpeg">
+            <img src="/images/tweets/EFEZaziU8AAkA7S.jpeg" alt="Screenshot of island terrian" title="Screenshot of island terrian"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>Screenshots around generated island</i>
+    </p>
+    
+    <p>&nbsp;<p>
+</div>
+</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Procedural Terrain Material</title>
+            <link>/posts/2019/09/procedural-terrain-material/</link>
+            <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/09/procedural-terrain-material/</guid>
+            <description>Late entry for #screenshotsaturday
+I was taking a break from some other work, and reworked terrain shader proc sand to do all this with one texture and some slope/elevation aware noise and warping with LoD (no blending):
+ Video of procedural material at shoreline &amp;nbsp;
+ Here&amp;rsquo;s a still. Also did some &amp;lsquo;swirly noise&amp;rsquo; for blending grass/dirt types over terrain (camera very far away to see the effect) that looks like erosion.</description>
+            <content type="html"><![CDATA[<p>Late entry for #screenshotsaturday</p>
+<p>I was taking a break from some other work, and reworked terrain shader proc sand to do all this with one texture and some slope/elevation aware noise and warping with LoD (no blending):</p>
+
+<div class="embed-video" >
+	<video width="100%" height="540" controls loop >
+		<source src="/video/tweets/2019-09-08_02-39-55.mp4" type="video/mp4">
+	</video>
+	<p style="text-align:center; margin: 0px;">
+		<i>Video of procedural material at shoreline</i>
+	</p>
+	<p>&nbsp;</p>
+</div>
+
+<p>Here&rsquo;s a still.  Also did some &lsquo;swirly noise&rsquo; for blending grass/dirt types over terrain (camera very far away to see the effect) that looks like erosion.</p>
+<p>
+<div style="width:100%; clear:left;">
+    
+</div>
+
+
+
+<span style="float: left; border-radius:  20px 0px 0px 20px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/ED7v5QEVUAApWJG.jpeg">
+            <img src="/images/tweets/ED7v5QEVUAApWJG.jpeg" alt="Screenshot of shoreline" title="Screenshot of shoreline"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+<span style="float: left; border-radius:  0px 20px 20px 0px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/tweets/ED7v5QGVAAEWHDs.jpeg">
+            <img src="/images/tweets/ED7v5QGVAAEWHDs.jpeg" alt="Screenshot of island terrian" title="Screenshot of island terrian"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>Screenshots around generated island</i>
+    </p>
+    
+    <p>&nbsp;<p>
+</div>
+</p>
+<p>I&rsquo;m looking for papers/slides on volumetric (SDF?) based water I&rsquo;m gathering resources.</p>
+<p>I currently still use my single quad &ldquo;VR water&rdquo;, and it&rsquo;s very boring. Sooner or later I need to add volume based water for rendering/physics to make sailing more fun. (waves with overhang)</p>
 ]]></content>
         </item>
         
