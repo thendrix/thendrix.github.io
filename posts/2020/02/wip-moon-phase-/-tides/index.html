@@ -5,18 +5,18 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Terry Hendrix">
-<meta name="description" content="Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol. I&amp;rsquo;m looking into using an actual star map to navigate by in game later on&amp;hellip; This is more of a mood test while a had a couple of hours.
-  Maybe you can see them in images:
-           Screenshot Gallery &amp;nbsp;  " />
+<meta name="description" content="Feb 4, 2020 I don&amp;rsquo;t think I showed working moon phase yet?
+The stars are all done in a screenspace shader, and the moon is just doing a simple alpha blend based on vector driven by day of the month w/o additional occlusion as yet. Lunar cycle isn&amp;rsquo;t completely modeled yet. An average night the moon should shift ~12-15 degrees.
+  Jan 11, 2020 Shows how time affects tides visually and with physics feedback for specific islands." />
 <meta name="keywords" content=", screenshotsaturday" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
-<link rel="canonical" href="/posts/2019/10/basic-night-sky-test/" />
+<link rel="canonical" href="/posts/2020/02/wip-moon-phase-/-tides/" />
 
 
     <title>
         
-            Basic Night Sky Test :: Thoughts on GameDev 
+            WIP Moon Phase / Tides :: Thoughts on GameDev 
         
     </title>
 
@@ -32,13 +32,13 @@
 
 
 
-<meta itemprop="name" content="Basic Night Sky Test">
-<meta itemprop="description" content="Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol. I&rsquo;m looking into using an actual star map to navigate by in game later on&hellip; This is more of a mood test while a had a couple of hours.
-  Maybe you can see them in images:
-           Screenshot Gallery &nbsp;  ">
-<meta itemprop="datePublished" content="2019-10-06T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2019-10-06T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="55">
+<meta itemprop="name" content="WIP Moon Phase / Tides">
+<meta itemprop="description" content="Feb 4, 2020 I don&rsquo;t think I showed working moon phase yet?
+The stars are all done in a screenspace shader, and the moon is just doing a simple alpha blend based on vector driven by day of the month w/o additional occlusion as yet. Lunar cycle isn&rsquo;t completely modeled yet. An average night the moon should shift ~12-15 degrees.
+  Jan 11, 2020 Shows how time affects tides visually and with physics feedback for specific islands.">
+<meta itemprop="datePublished" content="2020-02-04T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2020-02-04T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="118">
 <meta itemprop="image" content="/"/>
 
 
@@ -46,16 +46,16 @@
 <meta itemprop="keywords" content="screenshotsaturday," /><meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="/"/>
 
-<meta name="twitter:title" content="Basic Night Sky Test"/>
-<meta name="twitter:description" content="Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol. I&rsquo;m looking into using an actual star map to navigate by in game later on&hellip; This is more of a mood test while a had a couple of hours.
-  Maybe you can see them in images:
-           Screenshot Gallery &nbsp;  "/>
+<meta name="twitter:title" content="WIP Moon Phase / Tides"/>
+<meta name="twitter:description" content="Feb 4, 2020 I don&rsquo;t think I showed working moon phase yet?
+The stars are all done in a screenspace shader, and the moon is just doing a simple alpha blend based on vector driven by day of the month w/o additional occlusion as yet. Lunar cycle isn&rsquo;t completely modeled yet. An average night the moon should shift ~12-15 degrees.
+  Jan 11, 2020 Shows how time affects tides visually and with physics feedback for specific islands."/>
 
 
 
 
 
-    <meta property="article:published_time" content="2019-10-06 00:00:00 &#43;0000 UTC" />
+    <meta property="article:published_time" content="2020-02-04 00:00:00 &#43;0000 UTC" />
 
 
 
@@ -125,76 +125,28 @@
 
         <article>
             <h1 class="post-title">
-                <a href="/posts/2019/10/basic-night-sky-test/">Basic Night Sky Test</a>
+                <a href="/posts/2020/02/wip-moon-phase-/-tides/">WIP Moon Phase / Tides</a>
             </h1>
 
             
 
             <div class="post-content">
-                <p>Late entry for #screenshotsaturday really basic flickering stars that may not show up on video lol.  I&rsquo;m looking into using an actual star map to navigate by in game later on&hellip; This is more of a mood test while a had a couple of hours.</p>
+                <h2 id="feb-4-2020">Feb 4, 2020</h2>
+<p>I don&rsquo;t think I showed working moon phase yet?</p>
+<p>The stars are all done in a screenspace shader, and the moon is just doing a simple alpha blend based on vector driven by day of the month w/o additional occlusion as yet.  Lunar cycle isn&rsquo;t completely modeled yet.  An average night the moon should shift ~12-15 degrees.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/OPDR1uqRGnc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/GmpeHav554k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<p>Maybe you can see them in images:</p>
-<p>
-<div style="width:100%; clear:left;">
-    
+<h2 id="jan-11-2020">Jan 11, 2020</h2>
+<p>Shows how time affects tides visually and with physics feedback for specific islands.  I setup a simple embedded inspector view right in the dashboard for &lsquo;world time&rsquo; and &lsquo;physics for this island&rsquo;s ocean water plane&rsquo;.</p>
+<p>Looking into using SDFs or clipmaps for final ocean implementation (not shown) to allow for rough seas and rolling swells.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/7mtvNQbGmTg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
-
-<span style="float: left; border-radius:  20px 0px 0px 0px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
-    <figure  style="margin: 0px;">
-        <a href="/images/tweets/EGLiPDrU4AEASW7.jpeg">
-            <img src="/images/tweets/EGLiPDrU4AEASW7.jpeg" alt="screenshot 1" title="screenshot 1"  />
-        </a>
-        
-    </figure>
-</span>
-
-
-
-
-
-
-<span style="float: left; border-radius:  0px 20px 0px 0px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
-    <figure  style="margin: 0px;">
-        <a href="/images/tweets/EGLiPDsUwAE_PXO.jpeg">
-            <img src="/images/tweets/EGLiPDsUwAE_PXO.jpeg" alt="screenshot 2" title="screenshot 2"  />
-        </a>
-        
-    </figure>
-</span>
-
-
-
-
-
-
-<span style="float: left; border-radius:  0px 0px 20px 20px ; max-width:  100% ; height: auto; overflow: hidden; padding: 1px;">
-    <figure  style="margin: 0px;">
-        <a href="/images/tweets/EGLiPDvUUAAie7V.jpeg">
-            <img src="/images/tweets/EGLiPDvUUAAie7V.jpeg" alt="screenshot 3" title="screenshot 3"  />
-        </a>
-        
-    </figure>
-</span>
-
-
-
-
-
-<div style="width:100%; clear:left;">
-    
-    <p style="text-align:center">
-        <i>Screenshot Gallery</i>
-    </p>
-    
-    <p>&nbsp;<p>
-</div>
-</p>
 
             </div>
         </article>
@@ -206,9 +158,9 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="/tags/screenshotsaturday">screenshotsaturday</a></span>
                 </p>
 
-            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>55 Words</p>
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>118 Words</p>
 
-            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2019-10-05 17:00 -0700</p>
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2020-02-03 16:00 -0800</p>
         </div>
 
         
@@ -221,17 +173,17 @@
                 <div class="pagination__buttons">
                     
                         <span class="button previous">
-                            <a href="/posts/2020/02/wip-moon-phase-/-tides/">
+                            <a href="/posts/2020/02/wip-character-creator/">
                                 <span class="button__icon">←</span>
-                                <span class="button__text">WIP Moon Phase / Tides</span>
+                                <span class="button__text">WIP Character Creator</span>
                             </a>
                         </span>
                     
 
                     
                         <span class="button next">
-                            <a href="/posts/2019/08/wip-rpg-with-sailing-procedural-worlds-and-mod-support/">
-                                <span class="button__text">WIP RPG with sailing, procedural worlds, and mod support</span>
+                            <a href="/posts/2019/10/basic-night-sky-test/">
+                                <span class="button__text">Basic Night Sky Test</span>
                                 <span class="button__icon">→</span>
                             </a>
                         </span>

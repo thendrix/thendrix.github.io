@@ -262,6 +262,34 @@ Not sure if you can notice the refraction.</p>
         </item>
         
         <item>
+            <title>WIP Moon Phase / Tides</title>
+            <link>/posts/2020/02/wip-moon-phase-/-tides/</link>
+            <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2020/02/wip-moon-phase-/-tides/</guid>
+            <description>Feb 4, 2020 I don&amp;rsquo;t think I showed working moon phase yet?
+The stars are all done in a screenspace shader, and the moon is just doing a simple alpha blend based on vector driven by day of the month w/o additional occlusion as yet. Lunar cycle isn&amp;rsquo;t completely modeled yet. An average night the moon should shift ~12-15 degrees.
+  Jan 11, 2020 Shows how time affects tides visually and with physics feedback for specific islands.</description>
+            <content type="html"><![CDATA[<h2 id="feb-4-2020">Feb 4, 2020</h2>
+<p>I don&rsquo;t think I showed working moon phase yet?</p>
+<p>The stars are all done in a screenspace shader, and the moon is just doing a simple alpha blend based on vector driven by day of the month w/o additional occlusion as yet.  Lunar cycle isn&rsquo;t completely modeled yet.  An average night the moon should shift ~12-15 degrees.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/GmpeHav554k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="jan-11-2020">Jan 11, 2020</h2>
+<p>Shows how time affects tides visually and with physics feedback for specific islands.  I setup a simple embedded inspector view right in the dashboard for &lsquo;world time&rsquo; and &lsquo;physics for this island&rsquo;s ocean water plane&rsquo;.</p>
+<p>Looking into using SDFs or clipmaps for final ocean implementation (not shown) to allow for rough seas and rolling swells.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/7mtvNQbGmTg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+]]></content>
+        </item>
+        
+        <item>
             <title>Basic Night Sky Test</title>
             <link>/posts/2019/10/basic-night-sky-test/</link>
             <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
@@ -312,7 +340,7 @@ Not sure if you can notice the refraction.</p>
 
 
 
-<span style="float: left; border-radius:  0px 0px 0px 20px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px 0px 20px 20px ; max-width:  100% ; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/EGLiPDvUUAAie7V.jpeg">
             <img src="/images/tweets/EGLiPDvUUAAie7V.jpeg" alt="screenshot 3" title="screenshot 3"  />
@@ -404,7 +432,6 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
 </ul>
 <p>#screenshotsaturday</p>
 <p>Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tossed.  I like the highlights of my old 2-pass better but needs work to avoid getting too hot.</p>
-<p>Better look at a Rogue kitted out during prototyping phase.</p>
 <p>
 <div style="width:100%; clear:left;">
     
@@ -440,24 +467,10 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
 
 
 
-<span style="float: left; border-radius:  0px 0px 0px 20px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+<span style="float: left; border-radius:  0px 0px 20px 20px ; max-width:  100% ; height: auto; overflow: hidden; padding: 1px;">
     <figure  style="margin: 0px;">
         <a href="/images/tweets/D-P5b3LU0AAw55R.jpeg">
             <img src="/images/tweets/D-P5b3LU0AAw55R.jpeg" alt="screenshot 3" title="screenshot 3"  />
-        </a>
-        
-    </figure>
-</span>
-
-
-
-
-
-
-<span style="float: left; border-radius:  0px 0px 20px 0px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
-    <figure  style="margin: 0px;">
-        <a href="/images/tweets/D-P9zNHU0AA_ybN.png">
-            <img src="/images/tweets/D-P9zNHU0AA_ybN.png" alt="screenshot 3" title="screenshot 3"  />
         </a>
         
     </figure>
@@ -476,6 +489,24 @@ Yeah, the mage with horns is using the Burley with GGX I tried for a bit and tos
     <p>&nbsp;<p>
 </div>
 </p>
+
+
+<div style="display: block; margin: auto; max-width:  90% ; height: auto; padding: 1px;">
+    <figure 
+        style="border-radius: 16px; overflow: hidden;">
+        <a href="/images/tweets/D-P9zNHU0AA_ybN.png">
+            <img src="/images/tweets/D-P9zNHU0AA_ybN.png" alt="Better look at a Rogue kitted out during prototyping phase" title="Better look at a Rogue kitted out during prototyping phase"  />
+        </a>
+      
+    </figure>
+    <caption>
+        <p style="text-align:center">
+            <i>Better look at a Rogue kitted out during prototyping phase</i>
+        </p>
+    </caption>
+</div>
+
+
 <p>Kids, don&rsquo;t make an engine + game + art solo &ndash; it&rsquo;s crazy.  Leave it to professional crazy persons.</p>
 ]]></content>
         </item>

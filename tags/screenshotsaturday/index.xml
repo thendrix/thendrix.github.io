@@ -35,6 +35,17 @@
     </item>
     
     <item>
+      <title>WIP Moon Phase / Tides</title>
+      <link>/posts/2020/02/wip-moon-phase-/-tides/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/02/wip-moon-phase-/-tides/</guid>
+      <description>Feb 4, 2020 I don&amp;rsquo;t think I showed working moon phase yet?
+The stars are all done in a screenspace shader, and the moon is just doing a simple alpha blend based on vector driven by day of the month w/o additional occlusion as yet. Lunar cycle isn&amp;rsquo;t completely modeled yet. An average night the moon should shift ~12-15 degrees.
+  Jan 11, 2020 Shows how time affects tides visually and with physics feedback for specific islands.</description>
+    </item>
+    
+    <item>
       <title>Basic Night Sky Test</title>
       <link>/posts/2019/10/basic-night-sky-test/</link>
       <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
