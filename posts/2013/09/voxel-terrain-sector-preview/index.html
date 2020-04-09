@@ -6,8 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Terry Hendrix">
 <meta name="description" content="Got the basic voxel terrain in today. The most time was spent on new ways to generate and enqueue Voxels, RenderMesh, PhysicsMesh in various worker threads and sync them amongst all the subsystems. Also refactored some of the math library and noise generation while in there to avoid overlap.
- Voxel Terrain Sectors 2x1x2
-The scale of this image required me to adjust my camera&amp;hellip; typical player could be about as big as a pixel here&amp;hellip; going to hook this up to my biome and erosion simulation next." />
+   Voxel Terrain Sectors 2x1x2   The scale of this image required me to adjust my camera&amp;hellip; typical player could be about as big as a pixel here&amp;hellip; going to hook this up to my biome and erosion simulation next." />
 <meta name="keywords" content=", terrain" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -34,8 +33,7 @@ The scale of this image required me to adjust my camera&amp;hellip; typical play
 
 <meta itemprop="name" content="Voxel Terrain Sector Preview">
 <meta itemprop="description" content="Got the basic voxel terrain in today. The most time was spent on new ways to generate and enqueue Voxels, RenderMesh, PhysicsMesh in various worker threads and sync them amongst all the subsystems. Also refactored some of the math library and noise generation while in there to avoid overlap.
- Voxel Terrain Sectors 2x1x2
-The scale of this image required me to adjust my camera&hellip; typical player could be about as big as a pixel here&hellip; going to hook this up to my biome and erosion simulation next.">
+   Voxel Terrain Sectors 2x1x2   The scale of this image required me to adjust my camera&hellip; typical player could be about as big as a pixel here&hellip; going to hook this up to my biome and erosion simulation next.">
 <meta itemprop="datePublished" content="2013-09-09T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2013-09-09T00:00:00&#43;00:00" />
 <meta itemprop="wordCount" content="379">
@@ -48,8 +46,7 @@ The scale of this image required me to adjust my camera&hellip; typical player c
 
 <meta name="twitter:title" content="Voxel Terrain Sector Preview"/>
 <meta name="twitter:description" content="Got the basic voxel terrain in today. The most time was spent on new ways to generate and enqueue Voxels, RenderMesh, PhysicsMesh in various worker threads and sync them amongst all the subsystems. Also refactored some of the math library and noise generation while in there to avoid overlap.
- Voxel Terrain Sectors 2x1x2
-The scale of this image required me to adjust my camera&hellip; typical player could be about as big as a pixel here&hellip; going to hook this up to my biome and erosion simulation next."/>
+   Voxel Terrain Sectors 2x1x2   The scale of this image required me to adjust my camera&hellip; typical player could be about as big as a pixel here&hellip; going to hook this up to my biome and erosion simulation next."/>
 
 
 
@@ -132,8 +129,24 @@ The scale of this image required me to adjust my camera&hellip; typical player c
 
             <div class="post-content">
                 <p>Got the basic voxel terrain in today.  The most time was spent on new ways to generate and enqueue Voxels, RenderMesh, PhysicsMesh in various worker threads and sync them amongst all the subsystems.  Also refactored some of the math library and noise generation while in there to avoid overlap.</p>
-<p><a href="/images/20130909/kagura-0.5.4-0657.png"><img src="/images/20130909/kagura-0.5.4-0657.png" alt="gallery" title="Voxel Terrain Sectors 2x1x2"></a>
-<strong>Voxel Terrain Sectors 2x1x2</strong></p>
+
+
+<div style="display: block; margin: auto; max-width:  90% ; height: auto; padding: 1px;">
+    <figure 
+        style="border-radius: 16px; overflow: hidden;">
+        <a href="/images/20130909/kagura-0.5.4-0657.png">
+            <img src="/images/20130909/kagura-0.5.4-0657.png" alt="Voxel Terrain Sectors 2x1x2" title="Voxel Terrain Sectors 2x1x2"  />
+        </a>
+      
+    </figure>
+    <caption>
+        <p style="text-align:center">
+            <i>Voxel Terrain Sectors 2x1x2</i>
+        </p>
+    </caption>
+</div>
+
+
 <p>The scale of this image required me to adjust my camera&hellip; typical player could be about as big as a pixel here&hellip; going to hook this up to my biome and erosion simulation next.  That way flora and fauna will spawn with rivers and &lsquo;set piece&rsquo; locations, and have some more high frequency details&hellip; I had some crazy stuff like ocean trenches prototyped, but who would ever see that?  Took out the randomized caves for now too as they should be created by the biome / erosion system.  The trick will be to convert it to density functions properly - eg account for overlapping terrain.  I don&rsquo;t think trees grow under ground.</p>
 <p>This is just a 2x1x2 voxel terrain patch to get a sense of scale&hellip; I have mostly been testing with 6x2x6 and 9x3x9 for a complete world earlier.  It is all hooked up to script you can spawn more terrain as the player runs around until you run out of floating point sanity if you like.</p>
 <p>Memory overhead is super low at ~1/4 the size of the older heightmap generated terrain.  That said you could make worlds smaller than one walk cycle of animation or short sound clip by far still.  :D</p>
