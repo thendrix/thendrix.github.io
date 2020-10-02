@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clouds on Thoughts on GameDev</title>
+    <link>/tags/clouds/</link>
+    <description>Recent content in clouds on Thoughts on GameDev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/clouds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Update</title>
+      <link>/posts/2020/10/update/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/10/update/</guid>
+      <description>Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20.04 at 2K vsynced to 60Hz. Once I get an RTX card I will add an Ultra mode focused on hardware based ray tracing.</description>
+    </item>
+    
+  </channel>
+</rss>

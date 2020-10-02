@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Thoughts on GameDev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>clouds</title>
+      <link>/tags/clouds/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/clouds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sky</title>
+      <link>/tags/sky/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terrain</title>
+      <link>/tags/terrain/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/terrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>water</title>
+      <link>/tags/water/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/water/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>screenshots</title>
@@ -44,15 +80,6 @@
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/screenshotsaturday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>terrain</title>
-      <link>/tags/terrain/</link>
-      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/terrain/</guid>
       <description></description>
     </item>
     
