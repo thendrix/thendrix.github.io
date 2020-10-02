@@ -17,7 +17,7 @@
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/2020/10/update/</guid>
-      <description>Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20.04 at 2K vsynced to 60Hz. Once I get an RTX card I will add an Ultra mode focused on hardware based ray tracing.</description>
+      <description>Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. This means you won&amp;rsquo;t see any of my character or weapon art for this post. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20.</description>
     </item>
     
     <item>

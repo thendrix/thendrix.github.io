@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Terry Hendrix">
-<meta name="description" content="Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20.04 at 2K vsynced to 60Hz. Once I get an RTX card I will add an Ultra mode focused on hardware based ray tracing." />
+<meta name="description" content="Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. This means you won&amp;rsquo;t see any of my character or weapon art for this post. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20." />
 <meta name="keywords" content=", sky, terrain, water, clouds" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -31,7 +31,7 @@
 
 
 <meta itemprop="name" content="Update">
-<meta itemprop="description" content="Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20.04 at 2K vsynced to 60Hz. Once I get an RTX card I will add an Ultra mode focused on hardware based ray tracing.">
+<meta itemprop="description" content="Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. This means you won&rsquo;t see any of my character or weapon art for this post. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20.">
 <meta itemprop="datePublished" content="2020-10-03T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2020-10-03T00:00:00&#43;00:00" />
 <meta itemprop="wordCount" content="713">
@@ -43,7 +43,7 @@
 <meta name="twitter:image" content="/"/>
 
 <meta name="twitter:title" content="Update"/>
-<meta name="twitter:description" content="Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20.04 at 2K vsynced to 60Hz. Once I get an RTX card I will add an Ultra mode focused on hardware based ray tracing."/>
+<meta name="twitter:description" content="Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. This means you won&rsquo;t see any of my character or weapon art for this post. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20."/>
 
 
 
@@ -126,7 +126,7 @@
 
             <div class="post-content">
                 <!-- raw HTML omitted -->
-<p>Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20.04 at 2K vsynced to 60Hz. Once I get an RTX card I will add an Ultra mode focused on hardware based ray tracing. All ray tracing done here is by compute and fragment shaders. Mesh lighting is still done by area lights in the deferred lighting pass and real-time light probe(s) for image-based lighting (IBL). This means you won&rsquo;t see any of my character or weapon art for this post.</p>
+<p>Quite a bit has changed as we move towards alpha. This post will mostly deal with environmental rendering changes. This means you won&rsquo;t see any of my character or weapon art for this post. Basically, all the prototypes are being generalized and systems are being merged and replaced for the best trade offs. This also means Low/Med/High graphics quality levels are being roughed out. All images here are from a GTX 1080 Ti running on Ubuntu 20.04 at 2K vsynced to 60Hz. Once I get an RTX card I will add an Ultra mode focused on hardware based ray tracing. All ray tracing done here is by compute and fragment shaders. Mesh lighting is still done by area lights in the deferred lighting pass and real-time light probe(s) for image-based lighting (IBL).</p>
 <h2 id="atmospheric-scattering">Atmospheric Scattering</h2>
 <p>Using a simplified ray cast based solution for the sky color that&rsquo;s easier to control by artists and the Game Director. It&rsquo;s not fully physical as there are minor dramatic tweaks enabled by default. Also night time now makes distant objects much darker so they silhouette even during a full moon.</p>
 <p>
