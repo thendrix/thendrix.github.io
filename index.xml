@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Image-Based Placement</title>
+      <link>/posts/2020/10/image-based-placement/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/10/image-based-placement/</guid>
+      <description>Horizon Zero Dawn style image based ecotope placement may became default for alpha. This means the old 3d density functions + physics based placement will be replaced with heightmap + image-based proc gen for &amp;ldquo;large scale&amp;rdquo; features and placement. These maps can be fed directly into the voxel/SDF systems as input as well.
+This makes it easier to generate thousands of islands and put stuff on them basically with more realism.</description>
+    </item>
+    
+    <item>
       <title>Update</title>
       <link>/posts/2020/10/update/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>

@@ -4,36 +4,41 @@
   
   <url>
     <loc>/tags/clouds/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2020/10/image-based-placement/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/sky/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/terrain/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/2020/10/update/</loc>
-    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/water/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2020/10/update/</loc>
     <lastmod>2020-10-03T00:00:00+00:00</lastmod>
   </url>
   

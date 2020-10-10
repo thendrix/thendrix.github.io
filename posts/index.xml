@@ -5,8 +5,93 @@
         <description>Recent content in Posts on Thoughts on GameDev</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Image-Based Placement</title>
+            <link>/posts/2020/10/image-based-placement/</link>
+            <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2020/10/image-based-placement/</guid>
+            <description>Horizon Zero Dawn style image based ecotope placement may became default for alpha. This means the old 3d density functions + physics based placement will be replaced with heightmap + image-based proc gen for &amp;ldquo;large scale&amp;rdquo; features and placement. These maps can be fed directly into the voxel/SDF systems as input as well.
+This makes it easier to generate thousands of islands and put stuff on them basically with more realism.</description>
+            <content type="html"><![CDATA[<p>Horizon Zero Dawn style image based ecotope placement may became default for alpha. This means the old 3d density functions + physics based placement will be replaced with heightmap + image-based proc gen for &ldquo;large scale&rdquo; features and placement. These maps can be fed directly into the voxel/SDF systems as input as well.</p>
+<p>This makes it easier to generate thousands of islands and put stuff on them basically with more realism.</p>
+<p>Here&rsquo;s a visualization test applied to the debug &lsquo;mini-map&rsquo; in engine. Makes it easier to test distribution and image-based density inputs/outputs. Sometimes they even feedback &ndash; eg trees can affect shade for grass.</p>
+<p>
+<div style="width:100%; clear:left;">
+    
+</div>
+
+
+
+<span style="float: left; border-radius:  20px 0px 0px 0px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/20201010/20201009-025654-20.07.000-62a36812ccc77015-master-0000.png">
+            <img src="/images/20201010/20201009-025654-20.07.000-62a36812ccc77015-master-0000.png" alt="Debug procgen island viewer" title="Debug procgen island viewer"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+<span style="float: left; border-radius:  0px 20px 0px 0px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/20201010/20201009-113838-20.07.000-62a36812ccc77015-master-0000.png">
+            <img src="/images/20201010/20201009-113838-20.07.000-62a36812ccc77015-master-0000.png" alt="Unhelpful NPCs" title="Unhelpful NPCs"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+<span style="float: left; border-radius:  0px 0px 0px 20px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/20201010/20201010-132034-20.07.000-b93a43d692b3b248-master-0000.png">
+            <img src="/images/20201010/20201010-132034-20.07.000-b93a43d692b3b248-master-0000.png" alt="More layers visualized different island chunk" title="More layers visualized different island chunk"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+<span style="float: left; border-radius:  0px 20px 20px 0px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/20201010/20201009-153347-20.07.000-b93a43d692b3b248-master-0000.png">
+            <img src="/images/20201010/20201009-153347-20.07.000-b93a43d692b3b248-master-0000.png" alt="More layers" title="More layers"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>Placement debugging using 3D mini-map</i>
+    </p>
+    
+    <p>&nbsp;<p>
+</div>
+</p>
+]]></content>
+        </item>
         
         <item>
             <title>Update</title>
@@ -71,7 +156,7 @@
 <li>Real-time updated sky cubemap based (MED)</li>
 <li>Ray cast physically based (HIGH)</li>
 </ul>
-<p>The old fog (MED) has been seen before, so here what&rsquo;s new:</p>
+<p>The old fog (MED) has been seen before, so here is the new stuff:</p>
 <p>
 <div style="width:100%; clear:left;">
     
