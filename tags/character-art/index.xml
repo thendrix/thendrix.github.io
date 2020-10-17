@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>character art on Thoughts on GameDev</title>
+    <link>/tags/character-art/</link>
+    <description>Recent content in character art on Thoughts on GameDev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/character-art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Real-time Principled Hair</title>
+      <link>/posts/2020/10/real-time-principled-hair/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/10/real-time-principled-hair/</guid>
+      <description>I was writing up an issue/todo for principled hair, and then thought what the hell why not give it a whack. Took a couple of hours to dig up some papers and review what other folks were doing with path tracing.
+First stop was implementing a quick biologically based hair color system. After all I thought instead of palettes let end users suffer with sliders using names from medical texts!</description>
+    </item>
+    
+  </channel>
+</rss>

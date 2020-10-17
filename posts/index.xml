@@ -5,8 +5,75 @@
         <description>Recent content in Posts on Thoughts on GameDev</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Real-time Principled Hair</title>
+            <link>/posts/2020/10/real-time-principled-hair/</link>
+            <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2020/10/real-time-principled-hair/</guid>
+            <description>I was writing up an issue/todo for principled hair, and then thought what the hell why not give it a whack. Took a couple of hours to dig up some papers and review what other folks were doing with path tracing.
+First stop was implementing a quick biologically based hair color system. After all I thought instead of palettes let end users suffer with sliders using names from medical texts!</description>
+            <content type="html"><![CDATA[<p>I was writing up an issue/todo for principled hair, and then thought what the hell why not give it a whack. Took a couple of hours to dig up some papers and review what other folks were doing with path tracing.</p>
+<p>First stop was implementing a quick biologically based hair color system. After all I thought instead of palettes let end users suffer with sliders using names from medical texts!</p>
+<p>I mean&hellip; experiment and explore&hellip; yeah that&rsquo;s the ticket.</p>
+<p>
+<div style="width:100%; clear:left;">
+    
+</div>
+
+
+
+<span style="float: left; border-radius:  20px 0px 0px 20px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/20201017/01.png">
+            <img src="/images/20201017/01.png" alt="preprealpha hair" title="preprealpha hair"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+
+<span style="float: left; border-radius:  0px 20px 20px 0px ; max-width:  50% ; height: auto; overflow: hidden; padding: 1px;">
+    <figure  style="margin: 0px;">
+        <a href="/images/20201017/02.png">
+            <img src="/images/20201017/02.png" alt="prealpha hair" title="prealpha hair"  />
+        </a>
+        
+    </figure>
+</span>
+
+
+
+
+
+<div style="width:100%; clear:left;">
+    
+    <p style="text-align:center">
+        <i>How it started vs How it&#39;s going</i>
+    </p>
+    
+    <p>&nbsp;<p>
+</div>
+</p>
+<p>Right now you can drive all possible hair colors with <strong>melanin</strong> and <strong>pheomelanin</strong> ratio, and <strong>tint</strong> color for &lsquo;dyed&rsquo; hair. This will make character creation more fun and free form as well as allowing more player choice.</p>
+<p>I&rsquo;ll add a real light model later, but just wanted the realistic hair colors for now. I will do some real hair meshes or even strands at some point. This is a toe in the water for doing biology based skin tones next.</p>
+<h2 id="references">References</h2>
+<h4 id="a-practical-and-controllable-hair-and-fur-model-for-production-path-tracing">A Practical and Controllable Hair and Fur Model for Production Path Tracing</h4>
+<p><a href="https://benedikt-bitterli.me/pchfm/">web</a>
+| <a href="https://benedikt-bitterli.me/pchfm/pchfm.pdf">pdf</a></p>
+<p>The current goto paper on this subject, and check its references for more info.</p>
+<h4 id="blender-principled-hair">Blender: Principled Hair</h4>
+<p><a href="https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/hair_principled.html#cbtb16">web</a></p>
+<p>I really liked how blender&rsquo;s doc was done and how the shadernode is driven by the artist. It&rsquo;s worth taking a look.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Image-Based Placement</title>
